@@ -1,4 +1,3 @@
-# subset-selection problem
 # Subset Selection Problem
 
 ---
